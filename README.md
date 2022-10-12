@@ -1,4 +1,5 @@
-## Terraform basic commands
+### Terraform basic commands
+
 A quick demo of using terraform on AWS
 
 # Tutorial Article
