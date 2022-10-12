@@ -1,8 +1,10 @@
-### Terraform basic commands
+# Terraform basic commands
 
 A quick demo of using terraform on AWS
 
-# Tutorial Article
+
+
+Tutorial Article
 
 Medium link: https://medium.com/@avinash1798arya/starting-with-terraform-on-aws-479ecae4aa12
 
