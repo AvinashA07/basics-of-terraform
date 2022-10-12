@@ -1,2 +1,4 @@
-# basic-tf-aws
-A quick demo using terraform on AWS
+# Terraform basic commands
+A quick demo of using terraform on AWS
+
+
